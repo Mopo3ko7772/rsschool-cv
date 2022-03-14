@@ -1,5 +1,5 @@
 # Alexunder Pakhomchik
-## contacts: 
+## contacts:  
 * __email__ - alexrtt72@gmail.com
 * __discord__ - Alex Pakhomchik (@Mopo3ko7772)
 ### My target - get expirience in JS FE. No work expirience. I want work in big IT company and have pleasure from this work.
