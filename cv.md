@@ -6,7 +6,7 @@
 ---
 __My skills:__ HTML, CSS, JS (all basic)
 
-### Example my code:
+### Example my code: 
 ```
 function greet(){
   return "hello world!";
